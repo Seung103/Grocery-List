@@ -1,0 +1,41 @@
+/* Tag selectors */
+
+h1 {text-indent: 8em;
+    font-style: oblique;
+    color: rgb(43, 103, 216);
+}
+
+h2 {padding-right: 11em;
+    display: inline-block;
+    background-color: rgb(154, 202, 214);
+    border: 1px solid rgb(45, 67, 139);
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;}
+
+h3 {
+    color: rgb(72, 102, 146);
+    text-transform: uppercase;}
+
+ul {display: inline-block;
+    color:rgb(23, 22, 26);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 5.25em;
+    background-color: rgb(150, 196, 223);
+    }
+
+ol {display: inline-block;
+    color:rgb(23, 22, 26);   
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 5.25em;
+    background-color: rgb(150, 196, 223);
+    }
+
+img {
+    padding: 14px;
+    position: absolute;float: right;width:200px;height:200px;}
+
+
+
+
