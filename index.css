@@ -32,9 +32,10 @@ ol {display: inline-block;
     background-color: rgb(138, 97, 111);
     }
 
-img {padding: 14px;
+img {
+    padding: 14px;
     position: absolute;float: right;width:200px;height:200px;}
 
-/* Class selectors */
 
-.picture {padding-right: 100em;}
+
+
