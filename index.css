@@ -1,0 +1,17 @@
+/* Tag selectors */
+
+h1 {
+    font-style: oblique;
+    color: rgb(77, 138, 138);
+}
+
+h2 {text-transform: uppercase;}
+
+h3 {text-transform: uppercase;}
+
+/* Class selector */
+
+canned {
+    color: blue;
+}
+
