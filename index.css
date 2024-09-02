@@ -5,7 +5,8 @@ h1 {text-indent: 8em;
     color: rgb(77, 138, 138);
 }
 
-h2 {display: inline-block;
+h2 {padding-right: 11em;
+    display: inline-block;
     background-color: bisque;
     border: 1px solid blueviolet;
     color:brown;
@@ -19,6 +20,7 @@ ul {display: inline-block;
     color:brown;
     padding-top: 1px;
     padding-bottom: 1px;
+    padding-right: 5.25em;
     background-color: rgb(138, 97, 111);
     }
 
@@ -26,8 +28,13 @@ ol {display: inline-block;
     color:brown;   
     padding-top: 1px;
     padding-bottom: 1px;
+    padding-right: 5.25em;
     background-color: rgb(138, 97, 111);
     }
+
+img {padding: 14px;
+    position: absolute;float: right;width:200px;height:200px;}
+
 
 /* Class selectors */
 
